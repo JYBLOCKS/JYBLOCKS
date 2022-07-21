@@ -57,6 +57,6 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 :star: From [JYBLOCKS](https://github.com/JYBLOCKS)
 
-[website]: https://github.com/JYBLOCKS/Portfolio/
+[website]: https://github.com/JYBLOCKS/profile/
 [twitter]: https://twitter.com/jyblocks/
 [linkedin]: https://www.linkedin.com/in/jos%C3%A9-enrique-arredondo-herrera-616508152/
