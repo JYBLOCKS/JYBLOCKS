@@ -44,7 +44,6 @@ I am a Full-stack developer who is exploring Python, GraphQL and React.js
 
 ### You can find in me in the web 🌍
 [<img align="left" alt="JYBLOCKS" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="JYBLOCKS | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JYBLOCKS | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br/>
@@ -58,5 +57,4 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 :star: From [JYBLOCKS](https://github.com/JYBLOCKS)
 
 [website]: https://profile-aec4a.web.app/
-[twitter]: https://twitter.com/jyblocks/
 [linkedin]: https://www.linkedin.com/in/jos%C3%A9-enrique-arredondo-herrera-616508152/
