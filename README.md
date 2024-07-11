@@ -2,15 +2,15 @@
 
 ---
 
-I am a Full-stack developer who is exploring Python, GraphQL and React.js
+I am a Front-end developer who is exploring React and NextJs
  
  🔭 I’m planning for a Project **WEB Chatting in real time**.
  
- 🌱 I’m currently learning GraphQL <img src="https://graphql.org/img/logo.svg" width="20px">
+ 🌱 I’m currently learning ReactJS <img src="https://es.react.dev/images/home/conf2021/cover.svg" width="20px">
  
- :books: I want to learn Clean Code, mutation testing, AI.
+ :books: I want to learn about Clean Code, mutation testing, AI.
  
- 💬 Ask me about Full Stack Development.
+ 💬 Ask me about Front-end Development.
 
 ---
 
@@ -55,4 +55,4 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 :star: From [JYBLOCKS](https://github.com/JYBLOCKS)
 
-[linkedin]: https://www.linkedin.com/in/jos%C3%A9-enrique-arredondo-herrera-616508152/
+[linkedin]: https://www.linkedin.com/in/jose-enrique-arredondo-herrera-616508152/
