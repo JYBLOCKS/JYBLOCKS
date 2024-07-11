@@ -6,7 +6,7 @@ I am a Front-end developer who is exploring React and NextJs
  
  🔭 I’m planning for a Project **WEB Chatting in real time**.
  
- 🌱 I’m currently learning NextJS <img src="https://img.shields.io/badge/-React?style=flat&logo=react&logoColor=00c8ff" width="20px">
+ 🌱 I’m currently learning NextJS <img src="https://img.shields.io/badge/-React?style=flat&logo=react&logoColor=00c8ff&color=000000" width="20px">
  
  :books: I want to learn about Clean Code, mutation testing, AI.
  
