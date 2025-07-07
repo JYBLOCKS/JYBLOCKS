@@ -43,7 +43,7 @@ I am a Front-end developer who is exploring React and NextJs
 
 ### You can find in me in the web 🌍
 [<img align="left" alt="JYBLOCKS | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<p width="22px" height="22px" style="font-size: 22px">📄</p>][portfolio]
+[ ### 📄][portfolio]
 <br/>
 
 ---
