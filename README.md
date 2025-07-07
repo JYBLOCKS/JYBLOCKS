@@ -43,7 +43,7 @@ I am a Front-end developer who is exploring React and NextJs
 
 ### You can find in me in the web 🌍
 [<img align="left" alt="JYBLOCKS | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<p style="width: 22px; height: 22px; font-size: 22px;">📄</p>][portfolio]
 <br/>
 
 ---
@@ -55,3 +55,4 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 :star: From [JYBLOCKS](https://github.com/JYBLOCKS)
 
 [linkedin]: https://www.linkedin.com/in/jose-enrique-arredondo-herrera-616508152/
+[portfolio]: https://josearredondo.vercel.app/
